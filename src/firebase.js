@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDhM0wu1hS5nWgy7OhHzEd5fBCwlMs5-cU",
+  apiKey: "gfdhjfdgbd",
   authDomain: "wochale-platform.firebaseapp.com",
   projectId: "wochale-platform",
   storageBucket: "wochale-platform.firebasestorage.app",
